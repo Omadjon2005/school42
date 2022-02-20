@@ -1,0 +1,317 @@
+.School-42
+{
+    background: #F8F8F8;
+}
+.header
+{
+    background: url(20171207_114927.jpg) no-repeat center fixed;
+    background-size: cover;
+    background-color: #000;
+}
+.header .icons__menu a
+{
+    border: 1px solid;
+    padding: 10px 12px;
+    margin: 2px 4px;
+    border-radius: 50%;
+    text-decoration: none;
+    color:black;
+}
+.header .menu
+{
+    /* border: 1px solid; */
+    /* border-radius: 3px; */
+    background: rgba(233, 233, 233, 0.5);
+}
+.header .menu__btn
+{
+    /* margin: 0; */
+    padding: 15px 20px;
+    border: none;
+    background-color:#1EB2A6;
+    border-radius: 3px;
+}
+
+.header .menu .text-menu
+{
+    /* border: 1px solid red; */
+    transition: all 0.5s linear;
+    color: #fff;
+}
+
+.header .menu .text-menu:hover
+{
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+
+.header .GET
+{
+    /* margin: 0; */
+    border: none;
+    padding: 15px 20px;
+    background-color:#1EB2A6;
+    border-radius: 3px;
+}
+.header .VIEW
+{
+    border: none;
+    padding: 15px 20px;
+    /* margin: 0; */
+    background-color:#1EB2A6;
+    border-radius: 3px;
+}
+
+.color
+{
+    color: #1EB2A6;
+}
+
+.body .edu
+{
+    height: 680px;
+}
+.body .card
+{
+    /* cursor: pointer; */
+    border: none;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+}
+.body .card:hover
+{
+    background: #111;
+    color: #fff;
+    box-shadow: 0 0 5px #555;
+}
+
+.img__icons
+{
+    background: url(school.com2.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.img__icons .card
+{
+    border: none;
+    background: none;
+}
+
+
+
+
+
+
+
+.bod
+{
+    background-color: #1EB2A6;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.content .buy
+{
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    background: #F8F8F8;
+    color: #1EB2A6;
+}
+.content .now
+{
+    border: 1px solid #1EB2A6;
+    padding: 10px;
+    border-radius: 3px;
+    background: #fff;
+    color: #1EB2A6;
+    transition: all 0.2s linear;
+}
+.content .now:hover
+{
+    background-color: #1EB2A6;
+    color: #fff;
+}
+
+.content .card
+{
+    border: none;
+}
+
+.content__cards .card 
+{
+    cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    transition: all 0.3s linear;
+}
+.content__cards .card:hover
+{
+    background-color: #111;
+    color: #fff;
+}
+
+
+.content__cards .card .card-link
+{
+    /* border: 1px solid; */
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 4px 7px;
+    color: #1EB2A6;
+    background: #F8F8F8;
+}
+.content__cards .card.art
+{
+    background-color: #111;
+    color: #fff;
+    transition: all 0.2s linear;
+}
+.content__cards .card.art:hover
+{
+    box-shadow: 2px 2px 30px #555;
+}
+
+
+.content__carusel .card
+{
+    border: none;
+    transition: all 0.2s ease;
+}
+
+.content__carusel .card:hover
+{
+    background: #1EB2A6;
+    color: #fff;
+}
+
+.content__carusel .Muxammadrasul
+{
+    background: #1EB2A6;
+    color: #fff;
+    transition: all 0.2s linear;
+}
+.content__carusel .Muxammadrasul:hover
+{
+    background: #fff;
+    color: #000;
+}
+
+.content__carusel .card img
+{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+
+
+.content__img__cards .card
+{
+    border: none;
+}
+
+.content__img__cards .card span
+{
+    cursor: pointer;
+}
+
+.content__img__cards .card i
+{
+    color: #1EB2A6;
+}   
+
+.content__img__cards .card .card-title
+{
+    color: #000;
+    transition: all 0.2s ease;
+}
+
+.content__img__cards .card .card-title:hover
+{
+    color: #1EB2A6;
+}
+
+
+
+.Newsletter__footer
+{
+    background: #1EB2A6;
+}
+.Newsletter__footer input
+{
+    border: none;
+    background: none;
+    width: 95%;
+    border-bottom: 1px solid #fff;
+    padding: 10px 7px;
+    color: #fff;
+    outline: none;
+}
+.Newsletter__footer input:focus
+{
+    color: #fff;
+    border-bottom:1px solid #fff;
+}
+
+.Newsletter__footer input::placeholder
+{
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+::selection
+{
+    color:#000;
+    background-color: #fff;
+}
+
+
+
+.footer .icons__menu
+{
+    /* border: 1px solid red;   */
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.footer .icons__menu a i
+{
+    color: #fff;
+    background: #1EB2A6;
+    margin: 5px ;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.footer .icon-footer
+{
+    margin-bottom: 10px;
+}
+.footer .icon-footer .footer-icon
+{
+    /* border: 1px solid; */
+    margin: 10px 0;
+    color: #555;
+}
+
+.footer .icon-footer a
+{
+    text-decoration: none;
+    margin-bottom: 25px;
+}
+
+
+.footer .row a
+{
+    text-decoration: none;
+    color: #555;
+}
